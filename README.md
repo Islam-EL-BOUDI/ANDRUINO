@@ -1,6 +1,6 @@
 # ANDRUINO: Bridging Android and Arduino Ecosystems
 
-![ANDRUINO Logo](https://example.com/logo.png) <!-- Insert your logo URL here -->
+![ANDRUINO Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg) <!-- Insert your logo URL here -->
 
 ## 🚀 Introduction
 
