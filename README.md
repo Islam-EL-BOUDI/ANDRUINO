@@ -25,7 +25,7 @@ This project is all about breaking down the barriers between software and hardwa
 
 Before diving into ANDRUINO, ensure you have the following:
 
-- **Arduino Board** (e.g., Arduino Uno, Mega, Nano)
+- **Arduino Board equipped with Bluetooth** (e.g., Arduino Uno, Mega, Nano)
 - **Android Device** running Android 5.0 (Lollipop) or higher
 - **Arduino IDE** for programming your Arduino board
 - **Android Studio** (optional, for customizing the Android application)
