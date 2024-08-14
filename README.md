@@ -35,3 +35,34 @@ Before diving into ANDRUINO, ensure you have the following:
 1. **Clone the Repository**:
    ```sh
    https://github.com/Islam-EL-BOUDI/ANDRUINO.git
+
+2. **Upload Arduino Code**:
+Open the andruino.ino file in Arduino IDE, select your board and port, then upload the sketch.
+
+3. **Install Android App**:
+Build and install the ANDRUINO app on your Android device from the app directory or download the pre-built APK from the Releases section.
+
+4. **Connect and Go**:
+Connect your Android device to the Arduino using your preferred communication method (Bluetooth, Wi-Fi, USB OTG) and start interacting with your hardware.
+
+
+## 🤝 Contributing
+We welcome contributions from the community! If you'd like to contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeatureName).
+Commit your changes (git commit -am 'Add a new feature').
+Push to the branch (git push origin feature/YourFeatureName).
+Open a Pull Request.
+Please refer to our Contributing Guidelines for more details.
+
+## 🛡️ License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📞 Contact
+For support or inquiries, please reach out to us:
+
+<-- Email: support@andruino.com  -->
+
+This project is maintained by Islam EL BOUDI
+
