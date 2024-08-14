@@ -60,9 +60,8 @@ Please refer to our Contributing Guidelines for more details.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
-For support or inquiries, please reach out to us:
+For support or inquiries, please reach out to on Linkedin.
 
-<-- Email: support@andruino.com  -->
 
 This project is maintained by Islam EL BOUDI
 
