@@ -1,6 +1,8 @@
 # ANDRUINO: Bridging Android and Arduino Ecosystems
 
-![ANDRUINO Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg) <!-- Insert your logo URL here -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="ANDRUINO Logo" width="200"/>
+
 
 ## 🚀 Introduction
 
@@ -32,4 +34,4 @@ Before diving into ANDRUINO, ensure you have the following:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/ANDRUINO.git
+   https://github.com/Islam-EL-BOUDI/ANDRUINO.git
